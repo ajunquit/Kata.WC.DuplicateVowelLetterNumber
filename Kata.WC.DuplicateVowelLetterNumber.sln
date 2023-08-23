@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.WC.DuplicateVowelLetterNumber", "Kata.WC.DuplicateVowelLetterNumber\Kata.WC.DuplicateVowelLetterNumber.csproj", "{F9BA7DE0-4115-423B-85E8-6A6E85AC5A68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.WC.DuplicateVowelLetterNumber.Test", "Kata.WC.DuplicateVowelLetterNumber.Test\Kata.WC.DuplicateVowelLetterNumber.Test.csproj", "{25F13AFE-6E4C-421B-9561-1510EBF8937B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9BA7DE0-4115-423B-85E8-6A6E85AC5A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BA7DE0-4115-423B-85E8-6A6E85AC5A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BA7DE0-4115-423B-85E8-6A6E85AC5A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BA7DE0-4115-423B-85E8-6A6E85AC5A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25F13AFE-6E4C-421B-9561-1510EBF8937B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F13AFE-6E4C-421B-9561-1510EBF8937B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F13AFE-6E4C-421B-9561-1510EBF8937B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F13AFE-6E4C-421B-9561-1510EBF8937B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A95B74F-C5A2-4E43-BADD-B9B1354A7758}
+	EndGlobalSection
+EndGlobal
